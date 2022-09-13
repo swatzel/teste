@@ -4,7 +4,7 @@
 
 O projeto **BRH** é um sistema de _gestão de recursos humanos_. Seu objetivo é permitir a gestão dos colaboradores e departamentos da empresa. Com isso, conseguiremos futuramente dimensionar melhor a força de trabalho necessária em cada projeto pela alocação exata de colaboradores necessários em cada um.  
 
-**Principais entidades do projeto**  
+## **Principais entidades do projeto**
 
 1. Colaborador  
 
@@ -16,7 +16,7 @@ O projeto **BRH** é um sistema de _gestão de recursos humanos_. Seu objetivo �
 
 5. Atribuição
 
-**Principais relatórios**  
+## **Principais relatórios**  
 
 _Até o momento, foram gerados os seguintes relatórios:_
 
@@ -30,7 +30,20 @@ Seleciona departamento, projeto e número de colaboradores
 Seleciona CPF do dependente, nome, data de nascimento, parentesco, colaborador, idade e faixa etária.
 
 4. Relatório plano de saúde
-Seleciona colaborador e valor a pagar do plano de saúde mensal
+Seleciona colaborador e valor a pagar do plano de saúde mensal  
+
+## **Principais procedures e funções**
+
+_Até o momento, foram criadas as seguintes procedures e funções:_  
+
+1. Procedure insere_projeto  
+Inserir novo projeto, incluindo nome do projeto, responável e data de início.  
+
+2. Função calcula_idade
+Calcula idade a partir da data de nascimento informada.  
+
+3. Função finaliza_projeto  
+Insere data atual como data de finalização de um projeto. 
 
 
 
