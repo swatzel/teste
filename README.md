@@ -35,13 +35,13 @@ _Até o momento, foram gerados os seguintes relatórios:_
 1. Relatório de Senioridade  
 Seleciona a matrícula do colaborador, nome, salário e senioridade.
 
-2. Relatório número de colaboradores em projetos
+2. Relatório número de colaboradores em projetos  
 Seleciona departamento, projeto e número de colaboradores  
 
-3. Relatório faica etária dos dependentes
+3. Relatório faixa etária dos dependentes  
 Seleciona CPF do dependente, nome, data de nascimento, parentesco, colaborador, idade e faixa etária.
 
-4. Relatório plano de saúde
+4. Relatório plano de saúde  
 Seleciona colaborador e valor a pagar do plano de saúde mensal  
 
 ### **Principais procedures e funções**
